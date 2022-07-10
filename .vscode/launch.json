@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SigabemApplication<sigabem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sigabem.SigabemApplication",
+            "projectName": "sigabem",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
